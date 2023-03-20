@@ -1,2 +1,2 @@
-# platt
-Platt calibration
+# Platt and IsoReg
+Platt calibration and isotonic regression
